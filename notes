@@ -1,0 +1,1 @@
+Im trying to model see: https://github.com/diplomathesiscodes/AxialPump , an axial conical impeller based on mutall software - see https://github.com/paopaoai11/Multall-open-18.3 Since the model building based on stagen.out did crash my computer i have runned ./multall and the flowpassge coordinates convereted to tecplot x,y,z 
